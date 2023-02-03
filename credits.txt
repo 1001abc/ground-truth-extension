@@ -11,7 +11,7 @@ D: Group F
 
 N: Naomie ASSOUS
 D: Contributor
-D: Group F
+D: Group D
 
 N: Amadou BA
 D: Contributor
@@ -111,7 +111,7 @@ D: Group C
 
 N: Ethel PRYS
 D: Contributor
-D: Group H
+D: Group D
 
 N: Félix ROUGIER
 D: Contributor
